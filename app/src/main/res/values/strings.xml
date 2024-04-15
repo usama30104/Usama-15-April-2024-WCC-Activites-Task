@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="login">Login</string>
+    <string name="signup">signup</string>
+    <string name="welcome_nscreen">welcome \nScreen</string>
+    <string name="eamail">Eamail</string>
+    <string name="password">Password</string>
+    <string name="username">username</string>
+    <string name="hi_there">Hi there</string>
+    <string name="userpassword">userpassword</string>
+    <string name="email">Email</string>
+    <string name="signin">SignIn</string>
+    <string name="back_to_login">back_to_login</string>
+    <string name="accepted_and_i_confirm_terms_and_conditions">Accepted and I confirm terms and conditions</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="continue_as_guest">Continue As Guest</string>
+    <string name="create_account">Create Account</string>
+    <string name="not_new_user">Not new user ?</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="or_sign_up_with">Or sign up with</string>
+    <string name="new_user">New User ?</string>
+    <string name="forgot_password">Forgot Password</string>
+</resources>
